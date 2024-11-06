@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+}
+.paragraph {
+  border: 2px solid black;
+
+  margin: 20px;
+  padding: 20px;
+
+  border-radius: 50px;
+
+  cursor: pointer;
+  user-select: none;
+}
+
+
+h2 {
+  font-family:'Gill Sans', sans-serif;
+  color: #7FFF00; 
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Georgia', serif; 
+  color: #34495e; 
+}
